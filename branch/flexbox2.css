@@ -1,0 +1,55 @@
+.conteiner{
+    width: 80%;
+    height: 600px;
+    margin: 0 auto;
+    display: flex;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.main-title h2{
+    font-size: 40px;
+}
+.main-title p{
+    font-size: 20px;
+}
+.chat{
+    display: flex;
+    column-gap: 20px;
+}
+.live-chat img{
+    width: 70px;
+    height: 70px;    
+}
+.live-chat{
+    flex-basis: 33.33%;
+}
+.mobile-app{
+    flex-basis: 33.33%;
+}
+.live-chat h3{
+    font-size: 30px;
+}
+.live-chat p{
+    font-size: 20px;
+}
+.mobile-app img{
+    width: 70px;
+    height: 70px;
+}
+.mobile-app h3{
+    font-size: 30px;
+}
+.mobile-app p{
+    font-size: 20px;
+}
+.control-data{
+    width: 50%;
+}
+.control-img{
+    width: 50%;
+}
+.control-img img{
+    width: 100%;
+    height: 100%;
+}
